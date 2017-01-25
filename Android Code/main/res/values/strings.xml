@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CloudFileSync</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit App</string>
+    <string name="action_back">Back</string>
+    <string name="title_activity_main">Main Screen</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_upload">Upload File</string>
+    <string name="title_activity_download">Download File</string>
+    <string name="title_activity_local_file_list">Local File List</string>
+    <string name="title_activity_cloud_file_list">Cloud File List</string>
+</resources>
